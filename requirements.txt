@@ -1,0 +1,9 @@
+streamlit
+Pillow
+pytesseract
+opencv-python
+spacy
+fuzzywuzzy
+python-Levenshtein
+pandas
+PyPDF2
